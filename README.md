@@ -253,10 +253,4 @@ Contributions are welcome! You can extend the framework by:
 3. Implementing additional evaluation metrics
 4. Improving prompt templates
 
-## License
 
-This project is available under the MIT License.
-
-## Acknowledgments
-
-EngEdueval is inspired by the edueval5_5 framework and adapted for English educational content evaluation. 
