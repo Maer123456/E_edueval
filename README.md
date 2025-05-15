@@ -1,17 +1,14 @@
-# EngEdueval Framework
+# EduEval Benchmark 
 
-**English Educational Evaluation Framework**
 
-A framework for evaluating large language models (LLMs) on English educational tasks.
 
 ## Overview
-
-EngEdueval is a comprehensive framework designed to assess the performance of language models across various educational dimensions, from basic knowledge recall to creative problem-solving. It mirrors the structure and methodology of the Chinese edueval5_5 framework while adapting it specifically for English educational content.
+EduEval is a comprehensive tool for generating and evaluating model outputs in the educational domain, supporting various model access methods and evaluation task types.
 
 ## Directory Structure
 
 ```
-EngEdueval/
+Edueval/
 ├── code/
 │   ├── generate/            # Model generation modules
 │   │   ├── model_gen.py     # Base generator class
